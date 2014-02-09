@@ -1,0 +1,24 @@
+{
+  "name": "request-shared",
+  "version": "0.0.0",
+  "description": "Logic for normalizing arguments for an http request",
+  "keywords": [],
+  "browser": {
+    "./lib/buffer.js": "./lib/buffer-browser.js"
+  },
+  "dependencies": {
+    "qs": "0.6.6"
+  },
+  "devDependencies": {
+    "testit": "~1.2.0"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/request-shared.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
