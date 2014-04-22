@@ -2,9 +2,9 @@
 
 Logic for normalizing arguments for an http request
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/request-shared.png?branch=master)](https://travis-ci.org/ForbesLindesay/request-shared)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/request-shared.png)](https://gemnasium.com/ForbesLindesay/request-shared)
-[![NPM version](https://badge.fury.io/js/request-shared.png)](http://badge.fury.io/js/request-shared)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/request-shared/master.svg)](https://travis-ci.org/ForbesLindesay/request-shared)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/request-shared.svg)](https://gemnasium.com/ForbesLindesay/request-shared)
+[![NPM version](https://img.shields.io/npm/v/request-shared.svg)](http://badge.fury.io/js/request-shared)
 
 ## Installation
 
