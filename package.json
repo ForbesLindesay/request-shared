@@ -7,7 +7,7 @@
     "./lib/buffer.js": "./lib/buffer-browser.js"
   },
   "dependencies": {
-    "qs": "0.6.6"
+    "qs": "1.2.1"
   },
   "devDependencies": {
     "testit": "~1.2.0"
