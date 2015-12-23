@@ -3,8 +3,8 @@
 Logic for normalizing arguments for an http request
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/request-shared/master.svg)](https://travis-ci.org/ForbesLindesay/request-shared)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/request-shared.svg)](https://gemnasium.com/ForbesLindesay/request-shared)
-[![NPM version](https://img.shields.io/npm/v/request-shared.svg)](http://badge.fury.io/js/request-shared)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/request-shared.svg)](https://david-dm.org/ForbesLindesay/request-shared)
+[![NPM version](https://img.shields.io/npm/v/request-shared.svg)](https://www.npmjs.com/package/request-shared)
 
 ## Installation
 
