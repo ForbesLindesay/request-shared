@@ -1,5 +1,7 @@
 # request-shared
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/request-shared.svg)](https://greenkeeper.io/)
+
 Logic for normalizing arguments for an http request
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/request-shared/master.svg)](https://travis-ci.org/ForbesLindesay/request-shared)
